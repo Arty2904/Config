@@ -1,5 +1,5 @@
 {
   "min_version": "3.9",
-  "force_update": false,
+  "force_update": true,
   "soft_update": false
 }

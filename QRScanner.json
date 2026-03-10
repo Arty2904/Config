@@ -1,1 +1,5 @@
-Add file
+{
+  "min_version": "1.0",
+  "force_update": false,
+  "soft_update": true
+}

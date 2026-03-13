@@ -1,6 +1,6 @@
 {
   "min_version": "2.0.0",
-  "force_update": true,
-  "soft_update": false,
+  "force_update": false,
+  "soft_update": true,
   "link": "https://ya.ru"
 }

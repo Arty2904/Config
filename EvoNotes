@@ -2,5 +2,6 @@
   "min_version": "1.0.2",
   "force_update": false,
   "soft_update": true,
-  "link": "https://ya.ru"
+  "android_link": "https://ya.ru",
+  "ios_link": "https://dzen.ru"
 }

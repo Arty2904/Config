@@ -32,6 +32,7 @@
 1. Откройте созданный проект.
 2. Найдите раздел **"Настроить API"**.
 3. В блоке **Authorization Key** нажмите **Получить новый ключ** и скопируйте строку.
+<img width="865" height="452" alt="image" src="https://github.com/user-attachments/assets/ca2402df-3152-4474-bfb1-9c422aada8fc" />
 
 ---
 

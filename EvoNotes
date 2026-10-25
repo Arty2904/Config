@@ -1,7 +1,7 @@
 {
-  "min_version": "1.0.2",
+  "min_version": "1.0.0",
   "force_update": false,
   "soft_update": true,
-  "android_link": "https://ya.ru",
+  "android_link": "https://play.google.com/store/apps/details?id=com.avzory.EvoNotes",
   "ios_link": "https://dzen.ru"
 }

@@ -2,5 +2,6 @@
   "min_version": "1.0.0",
   "force_update": false,
   "soft_update": true,
-  "link": "https://play.google.com/store/apps/details?id=com.wordzap.app"
+  "android_link": "https://play.google.com/store/apps/details?id=com.wordzap.app",
+  "ios_link": "https://dzen.ru"
 }
